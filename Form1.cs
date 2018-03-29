@@ -251,7 +251,8 @@ namespace GLApp
             if (dialogResult == DialogResult.Yes)
             {
                 File.Delete(des + textBox2.Text + ".txt");
-                File.Delete(des + textBox2.Text + "_description.txt");
+                if (File.Exists(des + textBox2.Text + "_description.txt"))
+                    File.Delete(des + textBox2.Text + "_description.txt");
                 textBox1.Text = string.Empty;
                 textBox2.Text = string.Empty;
             }
