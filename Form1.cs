@@ -170,6 +170,8 @@ namespace GLApp
                         File.AppendAllText("steamdir.txt", fbd.SelectedPath + @"\");
                         textBox3.Text = File.ReadAllText("steamdir.txt");
                         fbd.Dispose();
+                        Process.Start("GLRApp.exe");
+                        Process.GetCurrentProcess().Kill();
                     }
                 }
             }
@@ -184,6 +186,8 @@ namespace GLApp
                         File.AppendAllText("steamdir.txt", fbd.SelectedPath + @"\");
                         textBox3.Text = File.ReadAllText("steamdir.txt");
                         fbd.Dispose();
+                        Process.Start("GLRApp.exe");
+                        Process.GetCurrentProcess().Kill();
                     }
                 }
             }
@@ -208,7 +212,6 @@ namespace GLApp
                 {
                     MessageBox.Show("This program requires to be ran as an Administrator!", "Load", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     Process.GetCurrentProcess().Kill();
-                    Environment.Exit(0);
                 }
             }
             button3.Enabled = false;
