@@ -1,0 +1,11 @@
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLApp.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLApp.Form1.resources
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLApp.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLApp.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLApp.Desc.resources
+G:\Visual Studio Projects\Projects\GLApp\GLApp\bin\Debug\GLRApp.exe.config
+G:\Visual Studio Projects\Projects\GLApp\GLApp\bin\Debug\GLRApp.exe
+G:\Visual Studio Projects\Projects\GLApp\GLApp\bin\Debug\GLRApp.pdb
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLRApp.Properties.Resources.resources
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLRApp.exe
+G:\Visual Studio Projects\Projects\GLApp\GLApp\obj\Debug\GLRApp.pdb
