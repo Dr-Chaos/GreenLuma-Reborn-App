@@ -120,14 +120,16 @@ namespace GLApp
             if (comboBox1.SelectedItem != null)
             {
                 if (File.Exists(des + comboBox1.SelectedIndex + ".txt"))
+                {
                     textBox1.Text = File.ReadAllText(des + comboBox1.SelectedIndex + ".txt");
+                    button3.Enabled = true;
+                    textBox4.Multiline = true;
+                    textBox4.ScrollBars = ScrollBars.Vertical;
+                }
                 else
                     MessageBox.Show("Unable to load file. File doesn't exist.", "Load", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 if (File.Exists(des + comboBox1.SelectedIndex + "_description.txt"))
                     textBox4.Text = File.ReadAllText(des + comboBox1.SelectedIndex + "_description.txt");
-                button3.Enabled = true;
-                textBox4.Multiline = true;
-                textBox4.ScrollBars = ScrollBars.Vertical;
             }
             else
                 MessageBox.Show("Unable to load file. Please select a number.", "Load", MessageBoxButtons.OK, MessageBoxIcon.Error);
