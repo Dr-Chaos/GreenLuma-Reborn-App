@@ -40,6 +40,14 @@ namespace GLApp
                     bool isNum = int.TryParse(textBox2.Text, out n);
                     if (isNum)
                     {
+                        try
+                        {
+                            File.Delete(Form1.des + textBox2.Text + "_description.txt");
+                        }
+                        catch
+                        {
+                            //If it doesn't exist.
+                        }
                         File.AppendAllText(Form1.des + textBox2.Text + "_description.txt", textBox1.Text);
                         Close();
                     }

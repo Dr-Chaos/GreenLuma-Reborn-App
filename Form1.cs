@@ -27,7 +27,8 @@ namespace GLApp
 
         void Win_FormClosed(object sender, FormClosedEventArgs e)
         {
-            textBox1.Text = string.Empty;
+            textBox1.Text = File.ReadAllText(des + comboBox1.SelectedIndex + ".txt");
+            textBox4.Text = File.ReadAllText(des + comboBox1.SelectedIndex + "_description.txt");
         }
 
         void button1_Click(object sender, EventArgs e)
@@ -45,9 +46,7 @@ namespace GLApp
                         {
                             txt = comboBox1.SelectedIndex.ToString();
                             File.Delete(des + comboBox1.SelectedIndex + ".txt");
-                            File.Delete(des + comboBox1.SelectedIndex + "_description.txt");
                             File.AppendAllText(des + comboBox1.SelectedIndex + ".txt", textBox1.Text);
-                            File.AppendAllText(des + comboBox1.SelectedIndex + "_description.txt", textBox4.Text);
                             win = new Desc();
                             win.FormClosed += Win_FormClosed;
                             win.Show();
