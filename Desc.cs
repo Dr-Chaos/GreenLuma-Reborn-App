@@ -28,6 +28,7 @@ namespace GLApp
         {
             textBox2.Text = Form1.txt;
             textBox2.Enabled = false;
+            
         }
 
         void button1_Click(object sender, EventArgs e)
