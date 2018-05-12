@@ -98,54 +98,57 @@ namespace GLApp
                         else
                             textBox1.Text = string.Empty;
                     }
-                    if (File.Exists(des + comboBox1.SelectedIndex + ".txt"))
-                    {
-                        if (isNum)
-                        {
-                            DialogResult dialogResult = MessageBox.Show("\"" + comboBox1.SelectedIndex + ".txt\" already exists. Replace it ?\n\n(Clicking \"Yes\" will allow you to modify the description.)", "Save", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                            if (dialogResult == DialogResult.Yes)
-                            {
-                                txt = comboBox1.SelectedIndex.ToString();
-                                File.Delete(des + comboBox1.SelectedIndex + ".txt");
-                                File.AppendAllText(des + comboBox1.SelectedIndex + ".txt", textBox1.Text);
-                                win = new Desc();
-                                win.FormClosed += Win_FormClosed;
-                                win.Show();
-                                //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            }
-                        }
-                        else
-                            MessageBox.Show("Unable to save file. Text file name can only contain numbers.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
                     else
                     {
-                        if (!string.IsNullOrEmpty(textBox1.Text))
+                        if (File.Exists(des + comboBox1.SelectedIndex + ".txt"))
                         {
                             if (isNum)
                             {
-                                txt = comboBox1.SelectedIndex.ToString();
-                                File.AppendAllText(des + comboBox1.SelectedIndex + ".txt", textBox1.Text);
-                                //string line = Environment.NewLine;
-                                File.WriteAllText("Info.txt", string.Empty);
-                                File.AppendAllText("Info.txt", "LastTextAdded=" + comboBox1.SelectedIndex + ".txt");
-                                button6.Enabled = true;
-                                string file = File.ReadAllText("Info.txt");
-                                string[] b = file.Split(new char[] { '=' });
-                                textBox5.Text = b[1];
-                                DialogResult dialogResult = MessageBox.Show("Set a description for \"" + comboBox1.SelectedIndex + ".txt\" ?", "Save", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                                DialogResult dialogResult = MessageBox.Show("\"" + comboBox1.SelectedIndex + ".txt\" already exists. Replace it ?\n\n(Clicking \"Yes\" will allow you to modify the description.)", "Save", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                                 if (dialogResult == DialogResult.Yes)
                                 {
+                                    txt = comboBox1.SelectedIndex.ToString();
+                                    File.Delete(des + comboBox1.SelectedIndex + ".txt");
+                                    File.AppendAllText(des + comboBox1.SelectedIndex + ".txt", textBox1.Text);
                                     win = new Desc();
                                     win.FormClosed += Win_FormClosed;
                                     win.Show();
+                                    //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 }
-                                //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             }
                             else
                                 MessageBox.Show("Unable to save file. Text file name can only contain numbers.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }
-                        else if (!string.IsNullOrEmpty(comboBox1.SelectedIndex.ToString()))
-                            MessageBox.Show("Unable to save file. Either App ID or text file name is missing.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        else
+                        {
+                            if (!string.IsNullOrEmpty(textBox1.Text))
+                            {
+                                if (isNum)
+                                {
+                                    txt = comboBox1.SelectedIndex.ToString();
+                                    File.AppendAllText(des + comboBox1.SelectedIndex + ".txt", textBox1.Text);
+                                    //string line = Environment.NewLine;
+                                    File.WriteAllText("Info.txt", string.Empty);
+                                    File.AppendAllText("Info.txt", "LastTextAdded=" + comboBox1.SelectedIndex + ".txt");
+                                    button6.Enabled = true;
+                                    string file = File.ReadAllText("Info.txt");
+                                    string[] b = file.Split(new char[] { '=' });
+                                    textBox5.Text = b[1];
+                                    DialogResult dialogResult = MessageBox.Show("Set a description for \"" + comboBox1.SelectedIndex + ".txt\" ?", "Save", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                                    if (dialogResult == DialogResult.Yes)
+                                    {
+                                        win = new Desc();
+                                        win.FormClosed += Win_FormClosed;
+                                        win.Show();
+                                    }
+                                    //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                }
+                                else
+                                    MessageBox.Show("Unable to save file. Text file name can only contain numbers.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            }
+                            else if (!string.IsNullOrEmpty(comboBox1.SelectedIndex.ToString()))
+                                MessageBox.Show("Unable to save file. Either App ID or text file name is missing.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
                     }
                 }
                 else
