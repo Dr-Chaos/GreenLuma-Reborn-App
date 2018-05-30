@@ -22,7 +22,14 @@ namespace GLApp
 
         public Form1()
         {
-            InitializeComponent();
+            if (Process.GetProcessesByName("SteamService").Length > 0)
+            {
+                MessageBox.Show("Please close Steam!", "Start", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Process.GetCurrentProcess().Kill();
+                Environment.Exit(0);
+            }
+            else
+                InitializeComponent();
         }
 
         void Win_FormClosed(object sender, FormClosedEventArgs e)
