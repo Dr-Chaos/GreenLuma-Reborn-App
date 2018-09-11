@@ -244,7 +244,37 @@
             "62",
             "63",
             "64",
-            "65"});
+            "65",
+            "66",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79",
+            "80",
+            "81",
+            "82",
+            "83",
+            "84",
+            "85",
+            "86",
+            "87",
+            "88",
+            "89",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95"});
             this.comboBox1.Location = new System.Drawing.Point(189, 12);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(51, 21);
@@ -258,7 +288,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(28, 13);
             this.label5.TabIndex = 17;
-            this.label5.Text = "v1.9";
+            this.label5.Text = "v2.0";
             // 
             // Form1
             // 
