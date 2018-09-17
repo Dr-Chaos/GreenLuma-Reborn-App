@@ -1,3 +1,5 @@
+**The GreenLuma Reborn App project was moved from [GitLab](https://gitlab.com/linkthehylian/glrapp) to [GitHub](https://github.com/linkthehylian/GreenLuma-Reborn-App). If you wish to download an older version of GLRApp. Please go [here](https://gitlab.com/linkthehylian/glrapp/tags) as older releases will not be uploaded to GitHub.
+
 # GreenLuma Reborn App
 An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
