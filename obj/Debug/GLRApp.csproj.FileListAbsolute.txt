@@ -31,3 +31,14 @@ G:\Visual Studio Projects\Projects\GLRApp\obj\Debug\GLRApp.csproj.GenerateResour
 G:\Visual Studio Projects\Projects\GLRApp\obj\Debug\GLRApp.csproj.CoreCompileInputs.cache
 G:\Visual Studio Projects\Projects\GLRApp\obj\Debug\GLRApp.exe
 G:\Visual Studio Projects\Projects\GLRApp\obj\Debug\GLRApp.pdb
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\bin\Debug\GLRApp.exe.config
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\bin\Debug\GLRApp.exe
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\bin\Debug\GLRApp.pdb
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLRApp.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLApp.Desc.resources
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLApp.Form1.resources
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLRApp.Properties.Resources.resources
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLRApp.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLRApp.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLRApp.exe
+G:\Visual Studio Projects\Projects\GLRApp\GreenLuma-Reborn-App\obj\Debug\GLRApp.pdb

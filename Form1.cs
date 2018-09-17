@@ -22,14 +22,7 @@ namespace GLApp
 
         public Form1()
         {
-            if (Process.GetProcessesByName("SteamService").Length > 0)
-            {
-                MessageBox.Show("Please close Steam!", "Start", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                Process.GetCurrentProcess().Kill();
-                Environment.Exit(0);
-            }
-            else
-                InitializeComponent();
+            InitializeComponent();
         }
 
         void Win_FormClosed(object sender, FormClosedEventArgs e)
@@ -321,6 +314,7 @@ namespace GLApp
             if (Application.ExecutablePath.Contains("AppData/Local/Temp"))
             {
                 MessageBox.Show("Please extract GLRApp from the Winrar archive.", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                Environment.Exit(0);
                 Process.GetCurrentProcess().Kill();
             }
             if (File.Exists("Info.txt"))
@@ -406,6 +400,15 @@ namespace GLApp
             button3.Enabled = false;
             textBox1.Text = string.Empty;
             textBox4.Text = string.Empty;
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (!File.Exists("donotdelete.txt"))
+            {
+                File.AppendAllText("donotdelete.txt", "RestartSteamAfter=True");
+                MessageBox.Show("Make sure you restart Steam with GreenLuma Reborn after adding your app IDs!", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }
