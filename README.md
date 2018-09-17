@@ -1,4 +1,4 @@
-# GreenLuma-Reborn-App
+# GreenLuma Reborn App
 An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
 # Latest update: **[GreenLuma Reborn 1.6.0](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
@@ -22,7 +22,7 @@ The full list of features provided by Steam006.
 # Can I get banned for using GreenLuma Reborn ?
 There will always be a risk when using GLR. If you're willing to take that risk, go right on ahead. If not, then don't bother. Especially when that risk means the status of your Steam account.
 
-As expected, there are some games that blacklist GLR and using it will result in receiving a game ban. Refer to [this page](https://gitlab.com/linkthehylian/glrapp/wikis/Help/Blacklist) if you want to check what games NOT to play.
+As expected, there are some games that blacklist GLR and using it will result in receiving a game ban. Refer to [this page]() if you want to check what games NOT to play.
 
 Please keep in mind. Like CreamAPI, GreenLuma Reborn **does not** work for every game.
 
