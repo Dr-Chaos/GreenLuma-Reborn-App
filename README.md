@@ -24,7 +24,7 @@ The full list of features provided by Steam006.
 # Can I get banned for using GreenLuma Reborn ?
 There will always be a risk when using GLR. If you're willing to take that risk, go right on ahead. If not, then don't bother. Especially when that risk means the status of your Steam account.
 
-As expected, there are some games that blacklist GLR and using it will result in receiving a game ban. Refer to [this page]() if you want to check what games NOT to play.
+As expected, there are some games that blacklist GLR and using it will result in receiving a game ban. Refer to [this page](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/Blacklist) if you want to check what games NOT to play.
 
 Please keep in mind. Like CreamAPI, GreenLuma Reborn **does not** work for every game.
 
@@ -49,9 +49,7 @@ You can:
 *  Allows you to delete any app ID's text file along with its description.
 
 # Where can I download your app ?
-All releases can be found [here]().
-
-Refer to the changelog [here]().
+All stable releases can be found [here](https://github.com/linkthehylian/GreenLuma-Reborn-App/releases).
 
 # Any viruses/malware ?
 I can assure you it is 100% [virus free](https://www.virustotal.com/#/file/5d12065235e836b313c2009df0af8ad83ced7c4db958d46ca33a18d1d06b7b02/detection).
