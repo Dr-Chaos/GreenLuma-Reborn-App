@@ -30,6 +30,10 @@ Please keep in mind. Like CreamAPI, GreenLuma Reborn **does not** work for every
 
 Also, keep in mind that not **every game** is available to play through Steam family sharing.
 
+I **highly advise** you to follow the "Legit stealth mode" installation instructions if you do plan on using GreenLuma Reborn.
+
+![alt text](https://i.imgur.com/XSjQFn9.png)
+
 # Is GreenLuma Reborn better than SteamCrack and CreamAPI ?
 ~~My personal opinion ? Yes, TONS better.~~
 
