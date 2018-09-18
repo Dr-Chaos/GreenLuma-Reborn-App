@@ -58,7 +58,7 @@ All stable releases can be found [here](https://github.com/linkthehylian/GreenLu
 # Any viruses/malware ?
 I can assure you it is 100% [virus free](https://www.virustotal.com/#/file/5d12065235e836b313c2009df0af8ad83ced7c4db958d46ca33a18d1d06b7b02/detection).
 
-# Why does the program automatically have Administrator privileges ?
+# Why does the program automatically have Administrative privileges ?
 In order for literally any program to access or modify files in Program Files/Program Files (x86). Administrative privileges are required.
 
 # Will more features be added soon ?
