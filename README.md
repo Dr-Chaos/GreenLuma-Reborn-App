@@ -7,6 +7,10 @@ An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
 ![alt text](https://i.imgur.com/XEKjbcI.png)
 
+* Since cs.rin.ru is only accessible through Tor at the moment. I have provided the latest version of GreenLuma Reborn to download.
+
+[Download GreenLuma Reborn 1.6.3](https://cdn.discordapp.com/attachments/285492984705712128/510768262192037893/GreenLuma_Reborn_1.6.3.rar)
+
 # What is the GreenLuma Reborn App ?
 GreenLuma Reborn App (GLRApp) is an app specifically designed for the Steam unlocker known as "GreenLuma Reborn".
 
