@@ -9,7 +9,7 @@ An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
 ![alt text](https://i.imgur.com/XEKjbcI.png)
 
-* Since cs.rin.ru is only accessible through Tor at the moment. I have provided the latest version of GreenLuma Reborn to download.
+* Since cs.rin.ru is only accessible through Tor at the moment. I have provided a download link for the latest version of GreenLuma Reborn.
 
 *I'll probably end up keeping the download link and updating it.*
 
