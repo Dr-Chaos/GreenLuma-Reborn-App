@@ -59,7 +59,7 @@ You can:
 *  Allows you to delete any app ID's text file along with its description.
 
 # Where can I download your app ?
-All stable releases can be found [here](https://github.com/linkthehylian/GreenLuma-Reborn-App/releases).
+All stable releases can be found [here](https://github.com/linkthehylian/GreenLuma-Reborn-App/releases/latest).
 
 # Any viruses/malware ?
 I can assure you it is 100% [virus free](https://www.virustotal.com/#/file/5d12065235e836b313c2009df0af8ad83ced7c4db958d46ca33a18d1d06b7b02/detection).
