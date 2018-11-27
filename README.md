@@ -11,7 +11,7 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 ![alt text](https://i.imgur.com/XEKjbcI.png)
 
-cs.rin.ru Status: Its official domain is back up. [Enjoy yourselves](https://cs.rin.ru/forum/).
+[cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
 # What is the GreenLuma Reborn App ?
 GreenLuma Reborn App (GLRApp) is an app specifically designed for the Steam unlocker known as "GreenLuma Reborn".
