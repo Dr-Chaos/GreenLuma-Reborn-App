@@ -16,9 +16,9 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 # What is the GreenLuma Reborn App ?
 GreenLuma Reborn App (GLRApp) is an app specifically designed for the Steam unlocker known as "GreenLuma Reborn".
 
-*GLRApp v2.0*
+*GLRApp v2.1*
 
-![alt text](https://i.imgur.com/eKVcthM.png)
+![alt text](https://i.imgur.com/wHcDyKp.png)
 
 # What is GreenLuma Reborn ?
 GreenLuma Reborn (GLR) is a Steam unlocker made by Steam006 that is used to obtain games from family shared libraries and DLC for games. There's much more to it, though.
