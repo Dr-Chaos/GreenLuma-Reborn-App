@@ -30,6 +30,7 @@ namespace GLApp
             textBox1.Text = File.ReadAllText(des + comboBox1.SelectedIndex + ".txt");
             if (File.Exists(des + comboBox1.SelectedIndex + "_description.txt"))
                 textBox4.Text = File.ReadAllText(des + comboBox1.SelectedIndex + "_description.txt");
+            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
         }
 
         void button1_Click(object sender, EventArgs e)
@@ -40,7 +41,7 @@ namespace GLApp
             {
                 if (comboBox1.SelectedItem != null)
                 {
-                    if (textBox1.Text == "381210")
+                    if (textBox1.Text == "381210") //Dead by Daylight
                     {
                         DialogResult result = MessageBox.Show("The usage of GreenLuma Reborn on this specific game has been reported to result in an game ban by EAC. It is highly recommended that you do not use GreenLuma Reborn to unlock DLC or add its app ID to play it from a friend's library. I'm not held responsible for the decision that you make.\n\nWould you still like to save \"" + comboBox1.SelectedIndex + ".txt\" ?\n\n(If you truly understand the risk and don't want to get banned. Click \"No.\")", "Save", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                         if (result == DialogResult.Yes)
@@ -60,6 +61,8 @@ namespace GLApp
                                         win.Show();
                                         //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                     }
+                                    else
+                                        comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
                                 }
                                 else
                                     MessageBox.Show("Unable to save file. Text file name can only contain numbers.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -86,6 +89,8 @@ namespace GLApp
                                             win.FormClosed += Win_FormClosed;
                                             win.Show();
                                         }
+                                        else
+                                            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
                                         //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                     }
                                     else
@@ -96,9 +101,12 @@ namespace GLApp
                             }
                         }
                         else
+                        {
                             textBox1.Text = string.Empty;
+                            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                        }
                     }
-                    else if (textBox1.Text == "578080")
+                    else if (textBox1.Text == "578080") //PLAYERUNKNOWN'S BATTLEGROUNDS
                     {
                         DialogResult result = MessageBox.Show("The usage of GreenLuma Reborn on this specific game has been reported to result in an game ban by BattlEye. It is highly recommended that you do not use GreenLuma Reborn to unlock DLC or add its app ID to play it from a friend's library. I'm not held responsible for the decision that you make.\n\nWould you still like to save \"" + comboBox1.SelectedIndex + ".txt\" ?\n\n(If you truly understand the risk and don't want to get banned. Click \"No.\")", "Save", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                         if (result == DialogResult.Yes)
@@ -154,7 +162,10 @@ namespace GLApp
                             }
                         }
                         else
+                        {
                             textBox1.Text = string.Empty;
+                            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                        }
                     }
                     else
                     {
@@ -173,6 +184,8 @@ namespace GLApp
                                     win.Show();
                                     //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 }
+                                else
+                                    comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
                             }
                             else
                                 MessageBox.Show("Unable to save file. Text file name can only contain numbers.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -199,6 +212,8 @@ namespace GLApp
                                         win.FormClosed += Win_FormClosed;
                                         win.Show();
                                     }
+                                    else
+                                        comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
                                     //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 }
                                 else
@@ -406,7 +421,7 @@ namespace GLApp
         {
             if (!File.Exists("donotdelete.txt"))
             {
-                File.AppendAllText("donotdelete.txt", "RestartSteamAfter=True");
+                File.AppendAllText("donotdelete.txt", "Make sure you restart Steam with GreenLuma Reborn after adding your app IDs!");
                 MessageBox.Show("Make sure you restart Steam with GreenLuma Reborn after adding your app IDs!", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }

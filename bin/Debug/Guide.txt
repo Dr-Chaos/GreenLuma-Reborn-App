@@ -13,11 +13,11 @@ How to use:
 
 1. Open GLRApp. (Administrative privileges are required)
 2. Find the "App ID" text box.
-3. Enter the App ID of a game/DLC that you would like to add.
+3. Enter the app ID of a game/DLC that you would like to add.
 4. Once it's entered, click "Save" and it'll give you the option to set a description.
-5. If you clicked "Yes", move on to #6. If you clicked "No". You're done! Do this for as many App IDs as you'd like.
-6. The Description window should've popped up. You can set a description for this specific App ID so that you know what it is later on. Once you've set a description, click "Set".
-7. You're done! You can do this for as many App IDs as you'd like.
+5. If you clicked "Yes", move on to #6. If you clicked "No". You're done! Do this for as many app IDs as you'd like.
+6. The description window should've popped up. You can set a description for this specific app ID so that you know what it is later on. Once you've set a description, click "Set".
+7. You're done! You can do this for as many app IDs as you'd like.
 
 
 Lastly, I hope this tool has helped you! Thank you for using it!
@@ -25,6 +25,4 @@ Lastly, I hope this tool has helped you! Thank you for using it!
 Please report any bugs that you find.
 
 
-Future updates can be found here: https://gitlab.com/linkthehylian/glrapp/tags
-
-Source code can be found here: https://gitlab.com/linkthehylian/glrapp
+Source code: https://github.com/linkthehylian/GreenLuma-Reborn-App
