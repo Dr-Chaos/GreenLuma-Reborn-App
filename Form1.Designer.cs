@@ -338,8 +338,7 @@
             "156",
             "157",
             "158",
-            "159",
-            "160"});
+            "159"});
             this.comboBox1.Location = new System.Drawing.Point(189, 12);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(51, 21);

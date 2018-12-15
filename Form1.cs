@@ -30,7 +30,10 @@ namespace GLApp
             textBox1.Text = File.ReadAllText(des + comboBox1.SelectedIndex + ".txt");
             if (File.Exists(des + comboBox1.SelectedIndex + "_description.txt"))
                 textBox4.Text = File.ReadAllText(des + comboBox1.SelectedIndex + "_description.txt");
-            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+            if (comboBox1.SelectedIndex == 159)
+                MessageBox.Show("GreenLuma Reborn text limit has been reached! Replace or delete other text files if you wish to add more.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else
+                comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
         }
 
         void button1_Click(object sender, EventArgs e)
@@ -62,7 +65,12 @@ namespace GLApp
                                         //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                     }
                                     else
-                                        comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                                    {
+                                        if (comboBox1.SelectedIndex == 159)
+                                            MessageBox.Show("GreenLuma Reborn text limit has been reached! Replace or delete other text files if you wish to add more.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                        else
+                                            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                                    }
                                 }
                                 else
                                     MessageBox.Show("Unable to save file. Text file name can only contain numbers.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -103,7 +111,10 @@ namespace GLApp
                         else
                         {
                             textBox1.Text = string.Empty;
-                            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                            if (comboBox1.SelectedIndex == 159)
+                                MessageBox.Show("GreenLuma Reborn text limit has been reached! Replace or delete other text files if you wish to add more.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            else
+                                comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
                         }
                     }
                     else if (textBox1.Text == "578080") //PLAYERUNKNOWN'S BATTLEGROUNDS
@@ -164,7 +175,10 @@ namespace GLApp
                         else
                         {
                             textBox1.Text = string.Empty;
-                            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                            if (comboBox1.SelectedIndex == 159)
+                                MessageBox.Show("GreenLuma Reborn text limit has been reached! Replace or delete other text files if you wish to add more.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            else
+                                comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
                         }
                     }
                     else
@@ -185,7 +199,12 @@ namespace GLApp
                                     //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 }
                                 else
-                                    comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                                {
+                                    if (comboBox1.SelectedIndex == 159)
+                                        MessageBox.Show("GreenLuma Reborn text limit has been reached! Replace or delete other text files if you wish to add more.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                    else
+                                        comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                                }
                             }
                             else
                                 MessageBox.Show("Unable to save file. Text file name can only contain numbers.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -213,7 +232,12 @@ namespace GLApp
                                         win.Show();
                                     }
                                     else
-                                        comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                                    {
+                                        if (comboBox1.SelectedIndex == 159)
+                                            MessageBox.Show("GreenLuma Reborn text limit has been reached! Replace or delete other text files if you wish to add more.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                        else
+                                            comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
+                                    }
                                     //MessageBox.Show("Please set a description for the App ID.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 }
                                 else
