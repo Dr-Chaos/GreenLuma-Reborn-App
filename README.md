@@ -7,9 +7,9 @@ An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GLR.
 
-[Download GreenLuma Reborn 1.6.5](https://cdn.discordapp.com/attachments/285492984705712128/521274989215875073/GreenLuma_Reborn_1.6.5.rar)
+[Download GreenLuma Reborn 1.6.6](https://cdn.discordapp.com/attachments/285492984705712128/532689441861402660/GreenLuma_Reborn_1.6.6.rar)
 
-![alt text](https://i.imgur.com/5DkPBRL.png)
+![alt text](https://i.imgur.com/2IaArOO.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
