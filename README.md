@@ -9,7 +9,7 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 [Download GreenLuma Reborn 1.6.7](https://cdn.discordapp.com/attachments/285492984705712128/541446491768881152/GreenLuma_Reborn_1.6.7.rar)
 
-![alt text](https://i.imgur.com/2IaArOO.png)
+![alt text](https://i.imgur.com/P2Btls8.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
