@@ -68,10 +68,8 @@ I can assure you it is 100% [virus free](https://www.virustotal.com/#/file/5d120
 In order for literally any program to access or modify files in Program Files/Program Files (x86). Administrative privileges are required.
 
 # Will more features be added soon ?
-Most definitely, I'm just adding what I can at the moment. If you have any suggestions or if you need any help you can contact me.
+Most definitely, I'm just adding what I think is necessary at the moment. If you have any suggestions or if you need any help you can contact me.
 
 Discord:
 
 ![alt text](https://i.imgur.com/5W8AUVS.png)
-
-Email: andypurdy3@gmail.com
