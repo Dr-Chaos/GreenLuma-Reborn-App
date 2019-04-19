@@ -3,13 +3,13 @@
 # GreenLuma Reborn App
 An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
-# Latest update: **[GreenLuma Reborn 1.6.7](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
+# Latest update: **[GreenLuma Reborn 1.7.0](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GLR.
 
-[Download GreenLuma Reborn 1.6.7](https://www111.zippyshare.com/v/o8uTBKlt/file.html)
+[Download GreenLuma Reborn 1.7.0](https://www59.zippyshare.com/v/DlDWtUwq/file.html)
 
-![alt text](https://i.imgur.com/P2Btls8.png)
+![alt text](https://i.imgur.com/3ybkaYg.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
@@ -38,7 +38,7 @@ Also, keep in mind that not **every game** is available to play through Steam fa
 
 I **highly advise** you to follow the "Legit stealth mode" installation instructions if you do plan on using GreenLuma Reborn.
 
-![alt text](https://i.imgur.com/XSjQFn9.png)
+![alt text](https://i.imgur.com/I6TjIQG.png)
 
 # Is GreenLuma Reborn better than SteamCrack and CreamAPI ?
 ~~My personal opinion ? Yes, TONS better.~~
