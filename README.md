@@ -38,7 +38,7 @@ Also, keep in mind that not **every game** is available to play through Steam fa
 
 I **highly advise** you to follow the "Legit stealth mode" installation instructions if you do plan on using GreenLuma Reborn.
 
-![alt text](https://i.imgur.com/I6TjIQG.png)
+![alt text](https://i.imgur.com/SpLNqH8.png)
 
 # Is GreenLuma Reborn better than SteamCrack and CreamAPI ?
 ~~My personal opinion ? Yes, TONS better.~~
