@@ -9,6 +9,8 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 [Download GreenLuma Reborn 1.7.0](https://www5.zippyshare.com/v/QPRQMpDZ/file.html)
 
+The "DllInjector.ini" has already been modified by me to automatically include NoHook mode. **Do not** edit it.
+
 ![alt text](https://i.imgur.com/3ybkaYg.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
