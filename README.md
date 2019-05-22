@@ -43,7 +43,7 @@ I **highly advise** you to follow the "Legit stealth mode" installation instruct
 ![alt text](https://i.imgur.com/SpLNqH8.png)
 
 # Is GreenLuma Reborn considered a "crack" for Steam ?
-This is a question I asked *a lot*.
+This is a question I get asked *a lot*.
 
 No, and it hasn't been since it was first released. These two statements by the moderator on cs.rin known as "[Christsnatcher](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=501706)" should give you a better understanding of what it does.
 > GLR is no "Crack" at all, but an unlocker, which works as follows: All packages subscribed to your account are referenced in appcache\packageinfo.vdf. I assume the SteamCrack you speak of refers to the hex modification of exactly that file. Now in 2014, Shlak and Mamooun found out that you can add app- and depotIDs of non-owned apps to an owned sub, making steam think you would own them too. Those were the days of packageinfopatcher and SFSFix. GLR now hooks steamclient.dll on load (and since it does that via kernel .dlls it needs admin rights, not because of the game location somewhere on C:), intercepts the packageinfo screening and injects the added appIDs into memory, basically the same principle used since 5 years.
