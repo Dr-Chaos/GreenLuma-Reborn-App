@@ -7,7 +7,7 @@ An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GLR.
 
-[Download GreenLuma Reborn 1.7.1](https://www77.zippyshare.com/v/wiOvMMh6/file.html)
+[Download GreenLuma Reborn 1.7.1](https://www51.zippyshare.com/v/u4VMTWh1/file.html)
 
 The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App#can-i-get-banned-for-using-greenluma-reborn-) and skip step three. **Do not** edit it.
 
