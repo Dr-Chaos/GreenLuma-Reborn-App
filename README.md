@@ -11,7 +11,7 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App#can-i-get-banned-for-using-greenluma-reborn-) and skip step three. **Do not** edit it.
 
-![alt text](https://i.imgur.com/3ybkaYg.png)
+![alt text](https://i.imgur.com/hMesKGv.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
