@@ -40,7 +40,7 @@ Also, keep in mind that not **every game** is available to play through Steam fa
 
 I **highly advise** you to follow the "Legit stealth mode" installation instructions if you do plan on using GreenLuma Reborn.
 
-![alt text](https://i.imgur.com/SpLNqH8.png)
+![alt text](https://i.imgur.com/vADUCHT.png)
 
 # Is GreenLuma Reborn considered a "crack" for Steam ?
 This is a question I get asked *a lot*.
