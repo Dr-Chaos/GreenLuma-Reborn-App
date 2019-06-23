@@ -3,15 +3,15 @@
 # GreenLuma Reborn App
 An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
-# Latest update: **[GreenLuma Reborn 1.7.1](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
+# Latest update: **[GreenLuma Reborn 1.7.2](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GLR.
 
-[Download GreenLuma Reborn 1.7.1](https://www82.zippyshare.com/v/VvaMKF0m/file.html)
+[Download GreenLuma Reborn 1.7.1](https://www48.zippyshare.com/v/51Hjv1zJ/file.html)
 
 The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App#can-i-get-banned-for-using-greenluma-reborn-) and skip step three. **Do not** edit it.
 
-![alt text](https://i.imgur.com/j8yxSID.png)
+![alt text](https://i.imgur.com/UfuGncl.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
@@ -40,7 +40,7 @@ Also, keep in mind that not **every game** is available to play through Steam fa
 
 I **highly advise** you to follow the "Legit stealth mode" installation instructions if you do plan on using GreenLuma Reborn.
 
-![alt text](https://i.imgur.com/vADUCHT.png)
+![alt text](https://i.imgur.com/6SAlxad.png)
 
 # Is GreenLuma Reborn considered a "crack" for Steam ?
 This is a question I get asked *a lot*.
