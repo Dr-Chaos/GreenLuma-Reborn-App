@@ -9,7 +9,7 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 [Download GreenLuma Reborn 1.7.2](https://www40.zippyshare.com/v/gvpHWwto/file.html)
 
-The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App#can-i-get-banned-for-using-greenluma-reborn-) and skip step three and four. **Do not** edit it.
+The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-reborn-) and skip step three and four. **Do not** edit it.
 
 ![alt text](https://i.imgur.com/UfuGncl.png)
 
