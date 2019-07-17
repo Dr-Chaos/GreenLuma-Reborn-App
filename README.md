@@ -29,35 +29,7 @@ The full list of features provided by Steam006.
 
 ![alt text](https://i.imgur.com/D18pz0f.png)
 
-# Can I get banned for using GreenLuma Reborn ?
-There will always be a risk when using GLR. If you're willing to take that risk, go right on ahead. If not, then don't bother. Especially when that risk means the status of your Steam account.
-
-As expected, there are some games that blacklist GLR and using it will result in receiving a game ban. Refer to [this page](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/Blacklist) if you want to check what games NOT to play.
-
-Please keep in mind. Like CreamAPI, GreenLuma Reborn **does not** work for every game.
-
-Also, keep in mind that not **every game** is available to play through Steam family sharing.
-
-I **highly advise** you to follow the "Legit stealth mode" installation instructions if you do plan on using GreenLuma Reborn.
-
-![alt text](https://i.imgur.com/6SAlxad.png)
-
-# Is GreenLuma Reborn considered a "crack" for Steam ?
-This is a question I get asked *a lot*.
-
-No, and it hasn't been since it was first released. These two statements by the moderator on cs.rin known as "[Christsnatcher](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=501706)" should give you a better understanding of what it does.
-> GLR is no "Crack" at all, but an unlocker, which works as follows: All packages subscribed to your account are referenced in appcache\packageinfo.vdf. I assume the SteamCrack you speak of refers to the hex modification of exactly that file. Now in 2014, Shlak and Mamooun found out that you can add app- and depotIDs of non-owned apps to an owned sub, making steam think you would own them too. Those were the days of packageinfopatcher and SFSFix. GLR now hooks steamclient.dll on load (and since it does that via kernel .dlls it needs admin rights, not because of the game location somewhere on C:), intercepts the packageinfo screening and injects the added appIDs into memory, basically the same principle used since 5 years.
-
-> GLR does not alter any kind of physical data which of course is a huge advantage, but on the other hand it leaves a memory footprint that de facto can't be hidden effectively. I mean, even if you use it in "Stealth Mode", only the game memory stays untouched, while the memory of the steam client remains significantly altered over the entire time you use the loader, simply because an entire custom 100+ KB .dll is kept actively loaded in steam's memory while being hooked at steamclient.dll. And exactly that's the point why dozens or even hundreds of games do NOT work with GLR at all, e.g. the last four CoD titles in online mode, Arma 3 DLC, PAYDAY 2. basically all Valve games and most of the Denuvo- or Arxan-protected titles. And all these games detect the exploit aside all their highly sophisticated kernel checks by simple scanning not the memory of the game in question, but the one of the steam client
-
-# Is GreenLuma Reborn better than SteamCrack and CreamAPI ?
-~~My personal opinion ? Yes, TONS better.~~
-
-GLR is still a very unique tool because of what it's able to do, especially the unintended feature of bypassing family sharing restrictions. But I hardly ever use it anymore unless I actually plan on playing a game from a friend's library.
-
-[SteamCrack](https://www.mpgh.net/forum/showthread.php?t=1383930) works like GreenLuma Reborn from what I've heard. Unfortunately, it requires you to downgrade your Steam client, not to mention it's incredibly unstable and it will crash Steam completely if someone messages you.
-
-[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) is a DLC unlocker for legitimately owned Steam games. Everything is done through a .ini file since the Steam API is modified. I use CreamAPI for some single player games and others. Although, it doesn't work for [*every*](https://docs.google.com/spreadsheets/d/1sVNjbkzGFsfeszDx-psLTm7Qe67nvEh2vlWpUPGnYdA/edit#gid=0) game.
+Please visit the [FaQ](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ) if you have any questions.
 
 # What can I do with your app ?
 You can:
@@ -76,10 +48,3 @@ I can assure you it is 100% [virus free](https://www.virustotal.com/#/file/5d120
 
 # Why does the program automatically have Administrative privileges ?
 In order for literally any program to access or modify files in Program Files/Program Files (x86). Administrative privileges are required.
-
-# Will more features be added soon ?
-Most definitely, I'm just adding what I think is necessary at the moment. If you have any suggestions or if you need any help you can contact me.
-
-Discord:
-
-![alt text](https://i.imgur.com/5W8AUVS.png)
