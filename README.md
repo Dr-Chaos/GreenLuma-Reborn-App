@@ -9,6 +9,8 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 [Download GreenLuma Reborn 1.7.3](https://www104.zippyshare.com/v/BFkVBCRf/file.html)
 
+(If the link above is not updated to the current existing version of GLR, I'm probably not home and will make sure that it's updated ASAP.)
+
 The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-reborn-) and skip step three and four. **Do not** edit it.
 
 ![alt text](https://i.imgur.com/z12RbnL.png)
