@@ -30,7 +30,7 @@ namespace GLApp
             textBox1.Text = File.ReadAllText(des + comboBox1.SelectedIndex + ".txt");
             if (File.Exists(des + comboBox1.SelectedIndex + "_description.txt"))
                 textBox4.Text = File.ReadAllText(des + comboBox1.SelectedIndex + "_description.txt");
-            if (comboBox1.SelectedIndex == 159)
+            if (comboBox1.SelectedIndex == 162)
                 MessageBox.Show("GreenLuma Reborn text limit has been reached! Replace or delete other text files if you wish to add more.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Error);
             else
                 comboBox1.SelectedIndex = comboBox1.SelectedIndex + 1;
