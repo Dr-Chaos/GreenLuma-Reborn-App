@@ -4,10 +4,10 @@ Some things to note:
 
 -PLEASE extract this tool from the 7Zip/Winrar archive into a folder.
 -Make sure you've already installed GreenLuma Reborn before using this tool. Or else the "AppList" folder will not exist in your Steam directory until it is.
--GreenLuma Reborn only supports up to 95 text files that contain App IDs. Which starts at 0.
--The main purpose of my tool is to provide descriptions for App IDs so that you're able to keep track of what you've added.
+-GreenLuma Reborn only supports up to 162 text files that contain app IDs. Which starts at 0. This changes frequently depending on the type of update GLR receives.
+-The main purpose of my tool is to provide descriptions for app IDs so that you're able to keep track of what you've added.
 -Administrative privileges are required in order to use this tool.
--Every App ID's description is located in the "AppList" folder in your Steam directory.
+-Every app ID's description is located in the "AppList" folder in your Steam directory.
 
 How to use:
 
