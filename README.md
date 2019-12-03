@@ -1,15 +1,17 @@
-**The GreenLuma Reborn App project was moved from [GitLab](https://gitlab.com/linkthehylian/glrapp) to [GitHub](https://github.com/linkthehylian/GreenLuma-Reborn-App). If you wish to download an older version of GLRApp. Please go [here](https://gitlab.com/linkthehylian/glrapp/tags) as the older releases will not be uploaded to GitHub.**
-
 # GreenLuma Reborn App
 An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
-# Latest update: **[GreenLuma Reborn 1.6.5](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
+# Latest update: **[GreenLuma Reborn 1.7.4](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GLR.
 
-[Download GreenLuma Reborn 1.6.5](https://cdn.discordapp.com/attachments/285492984705712128/521274989215875073/GreenLuma_Reborn_1.6.5.rar)
+[Download GreenLuma Reborn 1.7.4](https://www22.zippyshare.com/v/dLD3uerX/file.html)
 
-![alt text](https://i.imgur.com/5DkPBRL.png)
+(If the link above is not updated to the current version of GLR, I'm probably not home and will make sure that it's updated ASAP.)
+
+The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook and NoQuestion mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-reborn-) and skip step two and three. **Do not** edit it.
+
+![alt text](https://i.imgur.com/ZvOYRyV.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
@@ -20,34 +22,7 @@ GreenLuma Reborn App (GLRApp) is an app specifically designed for the Steam unlo
 
 ![alt text](https://i.imgur.com/wHcDyKp.png)
 
-# What is GreenLuma Reborn ?
-GreenLuma Reborn (GLR) is a Steam unlocker made by Steam006 that is used to obtain games from family shared libraries and DLC for games. There's much more to it, though.
-
-The full list of features provided by Steam006.
-
-![alt text](https://i.imgur.com/D18pz0f.png)
-
-# Can I get banned for using GreenLuma Reborn ?
-There will always be a risk when using GLR. If you're willing to take that risk, go right on ahead. If not, then don't bother. Especially when that risk means the status of your Steam account.
-
-As expected, there are some games that blacklist GLR and using it will result in receiving a game ban. Refer to [this page](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/Blacklist) if you want to check what games NOT to play.
-
-Please keep in mind. Like CreamAPI, GreenLuma Reborn **does not** work for every game.
-
-Also, keep in mind that not **every game** is available to play through Steam family sharing.
-
-I **highly advise** you to follow the "Legit stealth mode" installation instructions if you do plan on using GreenLuma Reborn.
-
-![alt text](https://i.imgur.com/XSjQFn9.png)
-
-# Is GreenLuma Reborn better than SteamCrack and CreamAPI ?
-~~My personal opinion ? Yes, TONS better.~~
-
-GLR is still a very unique tool because of what it's able to do, especially the unintended feature of bypassing family sharing restrictions. But I hardly ever use it anymore unless I actually plan on playing a game from a friend's library.
-
-[SteamCrack](https://www.mpgh.net/forum/showthread.php?t=1383930) works like GreenLuma Reborn from what I've heard. Unfortunately, it requires you to downgrade your Steam client, not to mention it's incredibly unstable and it will crash Steam completely if someone messages you.
-
-[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) is a DLC unlocker for legitimately owned Steam games. Everything is done through a .ini file since the Steam API is modified. I use CreamAPI for some single player games and others. Although, it doesn't work for [*every*](https://docs.google.com/spreadsheets/d/1sVNjbkzGFsfeszDx-psLTm7Qe67nvEh2vlWpUPGnYdA/edit#gid=0) game.
+Please visit the [FaQ](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ) if you have any questions about GLR itself.
 
 # What can I do with your app ?
 You can:
@@ -66,12 +41,3 @@ I can assure you it is 100% [virus free](https://www.virustotal.com/#/file/5d120
 
 # Why does the program automatically have Administrative privileges ?
 In order for literally any program to access or modify files in Program Files/Program Files (x86). Administrative privileges are required.
-
-# Will more features be added soon ?
-Most definitely, I'm just adding what I can at the moment. If you have any suggestions or if you need any help you can contact me.
-
-Discord:
-
-![alt text](https://i.imgur.com/5W8AUVS.png)
-
-Email: andypurdy3@gmail.com
