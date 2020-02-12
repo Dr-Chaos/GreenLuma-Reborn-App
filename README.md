@@ -36,6 +36,9 @@ You can:
 # Where can I download your app ?
 All stable releases can be found [here](https://github.com/linkthehylian/GreenLuma-Reborn-App/releases/latest).
 
+# Should I have your app open while a game that has anti-cheat is running ?
+**Absolutely not.** You should close my app once you are done with it. **Do not** leave it open while you open any sort of a game that uses anti-cheat.
+
 # Any viruses/malware ?
 I can assure you it is 100% [virus free](https://www.virustotal.com/#/file/5d12065235e836b313c2009df0af8ad83ced7c4db958d46ca33a18d1d06b7b02/detection).
 
