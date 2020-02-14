@@ -1,28 +1,28 @@
 # GreenLuma Reborn App
 An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
 
-# Latest update: **[GreenLuma Reborn 1.7.5](https://cs.rin.ru/forum/viewtopic.php?f=29&t=80797)**
+# Latest update: **[GreenLuma 2020 1.0.0](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)**
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GLR.
 
-[Download GreenLuma Reborn 1.7.5](https://www94.zippyshare.com/v/rz8h1I1W/file.html)
+[Download GreenLuma 2020 1.0.0](https://www94.zippyshare.com/v/GeMjjjJi/file.html)
 
 (If the link above is not updated to the current version of GLR, I'm probably not home and will make sure that it's updated ASAP.)
 
-The "DllInjector.ini" in the download link has already been modified by me to automatically include NoHook and NoQuestion mode. Just follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-reborn-) and skip step two and three. **Do not** edit it.
+The "DllInjector.ini" in the download link has already been modified by me. **Do not** edit it. Open GreenLumaSettings_2020.exe to enable or disable any features. Or follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-reborn-).
 
-![alt text](https://i.imgur.com/CvyWiBm.png)
+![alt text]()
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
 # What is the GreenLuma Reborn App ?
-GreenLuma Reborn App (GLRApp) is an app specifically designed for the Steam unlocker known as "GreenLuma Reborn".
+GreenLuma Reborn App (GLRApp) is an app specifically designed for the Steam unlocker known as "GreenLuma 2020".
 
 *GLRApp v2.1*
 
 ![alt text](https://i.imgur.com/wHcDyKp.png)
 
-Please visit the [FaQ](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ) if you have any questions about GLR itself.
+Please visit the [FaQ](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ) if you have any questions about GL2020 itself.
 
 # What can I do with your app ?
 You can:
