@@ -1,5 +1,5 @@
 # GreenLuma Reborn App
-An app specifically designed for the Steam unlocker: "GreenLuma Reborn".
+An app specifically designed for the Steam unlocker: "GreenLuma 2020".
 
 # Latest update: **[GreenLuma 2020 1.0.0](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)**
 
