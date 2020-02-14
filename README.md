@@ -7,7 +7,7 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 [Download GreenLuma 2020 1.0.0](https://www94.zippyshare.com/v/GeMjjjJi/file.html)
 
-(If the link above is not updated to the current version of GLR, I'm probably not home and will make sure that it's updated ASAP.)
+(If the link above is not updated to the current version of GL2020, I'm probably not home and will make sure that it's updated ASAP.)
 
 The "DllInjector.ini" in the download link has already been modified by me. **Do not** edit it. Open GreenLumaSettings_2020.exe to enable or disable any features. Or follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-reborn-).
 
