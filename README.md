@@ -3,7 +3,7 @@ An app specifically designed for the Steam unlocker: "GreenLuma 2020".
 
 # Latest update: **[GreenLuma 2020 1.0.0](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)**
 
-To make things easier, I'll keep the download link updated for anyone who wants the latest version of GLR.
+To make things easier, I'll keep the download link updated for anyone who wants the latest version of GL2020.
 
 [Download GreenLuma 2020 1.0.0](https://www94.zippyshare.com/v/GeMjjjJi/file.html)
 
