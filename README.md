@@ -1,6 +1,8 @@
 # GreenLuma Reborn App
 An app specifically designed for the Steam unlocker: "GreenLuma 2020".
 
+Please **do not** ask me about anything related to GL2020. I'm not the developer of it. Steam006 is. This is just a small app I made to add app IDs with. Report any issues you have [here](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709). Visit the [FaQ](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ) if you have any questions about GL2020 itself.
+
 # Latest update: **[GreenLuma 2020 1.0.3](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)**
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GL2020.
@@ -21,8 +23,6 @@ GreenLuma Reborn App (GLRApp) is an app specifically designed for the Steam unlo
 *GLRApp v2.1*
 
 ![alt text](https://i.imgur.com/wHcDyKp.png)
-
-Please visit the [FaQ](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ) if you have any questions about GL2020 itself.
 
 # What can I do with your app ?
 You can:
