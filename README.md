@@ -13,7 +13,7 @@ To make things easier, I'll keep the download link updated for anyone who wants 
 
 You no longer have to manually edit the DllInjector.ini. Open GreenLumaSettings_2020.exe to enable or disable any features. Or follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-2020-).
 
-![alt text](https://i.imgur.com/eMEGaat.png)
+![alt text](https://i.imgur.com/l2dsnY6.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
