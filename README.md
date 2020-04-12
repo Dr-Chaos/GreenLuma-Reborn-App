@@ -3,17 +3,17 @@ An app specifically designed for the Steam unlocker: "GreenLuma 2020".
 
 Please **do not** ask me about anything related to GL2020. I'm not the developer of it. Steam006 is. This is just a small app I made to add app IDs with. Report any issues you have [here](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709). Visit the [FaQ](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ) if you have any questions about GL2020 itself.
 
-# Latest update: **[GreenLuma 2020 1.0.6](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)**
+# Latest update: **[GreenLuma 2020 1.0.7](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)**
 
 To make things easier, I'll keep the download link updated for anyone who wants the latest version of GL2020.
 
-[Download GreenLuma 2020 1.0.6](https://www31.zippyshare.com/v/JuIUFNLf/file.html)
+[Download GreenLuma 2020 1.0.7](https://www54.zippyshare.com/v/lFcPGi2j/file.html)
 
 (If the link above is not updated to the current version of GL2020, I will make sure that it's updated ASAP.)
 
 You no longer have to manually edit the DllInjector.ini. Open GreenLumaSettings_2020.exe to enable or disable any features. Or follow the [installation instructions](https://github.com/linkthehylian/GreenLuma-Reborn-App/wiki/FaQ#can-i-get-banned-for-using-greenluma-2020-).
 
-![alt text](https://i.imgur.com/8FxTuTO.png)
+![alt text](https://i.imgur.com/MM6dLWE.png)
 
 [cs.rin.ru](https://cs.rin.ru/forum/) Status: Its official domain is back up. Enjoy yourselves.
 
